@@ -11,6 +11,9 @@ This repository contains a simple Excel Based Premium Calculator for Super E Plu
 
 -[Usage](#Usage)
 
+-[Screenshots](#Screenshots)
+
+
 
 ## Introduction
 
@@ -39,3 +42,11 @@ The workbook contains three worksheets: SUPER E PLUS RATES, R 1.0025, and Premiu
 - Navigate to "Premium Calculator" Worksheet
 - Enter your details in blue colored cells. That is, Client Name, Date of Birth, Gender, Date of Issue, Policy Term, Sum Assured and Premium Frequency(Enter Monthly since the calcultor provies monthly premium only).
 - The rest are auto calculated instantly.
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/f0db6acc-f02e-43a4-944a-46057995f75e)
+
+
+![image](https://github.com/user-attachments/assets/716f0f40-9eb0-4267-9bf4-3c3409bae8fe)
+

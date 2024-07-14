@@ -13,6 +13,10 @@ This repository contains a simple Excel Based Premium Calculator for Super E Plu
 
 -[Screenshots](#Screenshots)
 
+-[Contribution](#Contribution)
+
+-[Licence](#Licence)
+
 
 
 ## Introduction
@@ -50,3 +54,10 @@ The workbook contains three worksheets: SUPER E PLUS RATES, R 1.0025, and Premiu
 
 ![image](https://github.com/user-attachments/assets/716f0f40-9eb0-4267-9bf4-3c3409bae8fe)
 
+## Contribution
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+
+## Licence
+
+See the LICENCE File for more details.
